@@ -1,5 +1,5 @@
 # DiCo_Vid
-Diffusion-Conditioned Multi-modal Large Language Models for Video Understanding
+
 
 ## 📝 Change Logs
 * [2025-07-22]: Create the Projects, and upload data, pre-trained LLM, ablation study links.
